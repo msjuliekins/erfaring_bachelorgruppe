@@ -1,4 +1,4 @@
-# Bachelorgrupp i Informasjonsteknologi - Frontend- og mobilutvikling
+# Bachelorgruppe i Informasjonsteknologi - Frontend- og mobilutvikling
 
 Hei! Vi er en bachelorgruppe fra Høyskolen Kristiania som studerer informasjonsteknologi med spesialisering i frontend- og mobilutvikling.  
 Dette repoet samler våre kodeprosjekter, eksamensoppgaver og eksperimenter fra studietiden.  
