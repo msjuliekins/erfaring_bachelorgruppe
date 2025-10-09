@@ -17,10 +17,10 @@ Vi er fire engasjerte studenter som brenner for teknologi og problemløsning:
 
 | Prosjekt | Beskrivelse | Teknologier |
 |-----------|--------------|--------------|
-| [RickAndMortyApp](./RickAndMortyApp) | En Android-app som henter og viser karakterinformasjon fra et API | Kotlin, REST API |
-| [TrumpVerse](./EksamenWebutvikling) | Fullstack-eksamen med eget .NET API, React frontend og SQLite-database | .NET, React, SQLite |
-| [Exam-25-PG2400](./Exam-25-PG2400) | Implementasjon og sammenligning av ulike sorteringsalgoritmer (BubbleSort, MergeSort, QuickSort, InsertionSort) brukt for å sortere geografiske data (longitude og latitude). | Java |
-| [Exam_PGR107_396](./Exam_PGR107_396) | Eksamensoppgave i Python som dekker grunnleggende programmering, filhåndtering og logiske oppgaver. Inkluderer arbeid med tekstfil og funksjoner fordelt over flere deloppgaver. | Python |
+| [RickAndMortyApp](./RickAndMortyAppKaroline) | En Android-app som henter og viser karakterinformasjon fra et API | Kotlin, REST API |
+| [TrumpVerse](./EksamenWebutviklingKaroline) | Fullstack-eksamen med eget .NET API, React frontend og SQLite-database | .NET, React, SQLite |
+| [Exam-25-PG2400](./Exam-25-PG2400-Karoline) | Implementasjon og sammenligning av ulike sorteringsalgoritmer (BubbleSort, MergeSort, QuickSort, InsertionSort) brukt for å sortere geografiske data (longitude og latitude). | Java |
+| [Exam_PGR107_396](./Exam_PGR107_396-Karoline) | Eksamensoppgave i Python som dekker grunnleggende programmering, filhåndtering og logiske oppgaver. Inkluderer arbeid med tekstfil og funksjoner fordelt over flere deloppgaver. | Python |
 
 
 ## Prosjekter - Julie osv
