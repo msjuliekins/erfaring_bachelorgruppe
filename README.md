@@ -27,6 +27,6 @@ Vi er fire engasjerte studenter som brenner for teknologi og problemløsning:
 | Prosjekt | Beskrivelse | Teknologier |
 |-----------|--------------|--------------|
 | [Java_Julie](./Java_Julie) | To oppgaver fra tidligere studie. Spill. Legesystem. | Java |
-| [Python_Exam_Julie](./Python_exam_julie) | Fullstack-eksamen med eget .NET API, React frontend og SQLite-database | .NET, React, SQLite |
+| [Python_Exam_Julie](./Python_exam_Julie) | Fullstack-eksamen med eget .NET API, React frontend og SQLite-database | .NET, React, SQLite |
 | [AlgDat_Sania_Julie](./AlgDat_Sania_Julie) | Implementasjon og sammenligning av ulike sorteringsalgoritmer (BubbleSort, MergeSort, QuickSort, InsertionSort) brukt for å sortere geografiske data (longitude og latitude). | Java |
 | [Webutvikling24_Julie](./Webutvikling24_Julie) | Fullstack-eksamen med eget .NET API, React frontend og SQLite-database | .NET, React, SQLite |
