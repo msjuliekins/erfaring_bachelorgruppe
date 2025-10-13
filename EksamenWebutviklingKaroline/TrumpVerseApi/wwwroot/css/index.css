@@ -1,0 +1,31 @@
+html body {
+    font-family: 'Playfair Display', sans-serif;
+    background-color: #5e5e5e;
+    color: 	rgb(245,245,245);
+    margin: 2rem;
+}
+
+.heading {
+    background-color: #191919;
+    border: groove rgba(43, 150, 174, 0.58);
+    border-radius: 2px;
+}
+
+.img {
+    width: 40%;
+    border-radius: 20px;
+    border: solid 6px rgb(43, 151, 174);
+    object-fit: cover;
+}
+
+.grid-12-column{
+    display: flex;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 200px;
+}
+
+.top-articles {
+    border: dotted rgba(43, 150, 174, 0.297);
+    border-radius: 12px;
+}
+

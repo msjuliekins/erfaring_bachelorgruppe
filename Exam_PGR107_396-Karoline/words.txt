@@ -1,0 +1,7 @@
+Snow
+sun
+Overcast
+Blizzard
+Rain
+Hail
+Thunder

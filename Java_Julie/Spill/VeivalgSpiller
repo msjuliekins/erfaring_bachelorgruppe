@@ -1,0 +1,67 @@
+import java.util.Scanner;
+import java.util.Random;
+
+class VeivalgSpiller extends Spiller {
+  int formue;
+  Bruker bruker;
+  Skattekiste ryggsekk;
+  Robot robot;
+  Gjenstand objekt;
+  VeivalgTerreng terreng;
+  VeivalgSted sted;
+  Scanner scanner;
+
+  public VeivalgSpiller(VeivalgSted startsted, Bruker brukeren) {
+    super(startsted, brukeren);
+    ryggsekk = new Skattekiste();
+    formue = 0;
+    bruker = brukeren;
+    terreng = new VeivalgTerreng();
+    sted  = startsted;
+    scanner = new Scanner(System.in);
+  }
+
+  public void nyttTrekk() {
+    sted.skattekiste();
+    Random random = new Random();
+    String[] kommandoer = new String[2];
+    kommandoer[0] = "0. Ja";
+    kommandoer[1] = "1. Nei";
+    bruker.giStatus(sted.beskriv);
+    int valg = bruker.beOmKommando("Oensker du aa selge en gjenstand?", kommandoer);
+    if (valg == 0) {
+      objekt = ryggsekk.taUt();
+      sted.kista().leggInn(objekt);
+      int verdi = sted.kista().leggInn(objekt);
+      formue += verdi;
+      bruker.giStatus("Selger gjenstand");
+      System.out.println("-" + objekt.navn());
+    }
+
+    valg = bruker.beOmKommando("Oensker du aa plukke opp ny gjenstand?", kommandoer);
+    if (valg == 0) {
+      objekt = sted.kista().taUt();
+      ryggsekk.leggInn(objekt);
+      bruker.giStatus("Plukker opp gjenstand");
+      System.out.println("+" + objekt.navn());
+    }
+    System.out.println("Hvor oensker du aa gaa videre?");
+    System.out.println("0. Hoeyre");
+    System.out.println("1. Fram");
+    System.out.println("2. Venstre");
+    System.out.println("Vennligst bruk indeks");
+    int valgt = scanner.nextInt();
+    if (valgt == 0) {
+      System.out.println("Gaar til hoeyre");
+      sted = new VeivalgSted(sted.gaaVidere().get(0));
+    }
+    if (valgt == 1) {
+      System.out.println("Gaar fram");
+      sted = new VeivalgSted(sted.liste.get(1));
+    }
+    if (valgt == 2) {
+      System.out.println("Gaar til venstre");
+      sted = new VeivalgSted(sted.liste.get(2));
+    }
+  }
+}

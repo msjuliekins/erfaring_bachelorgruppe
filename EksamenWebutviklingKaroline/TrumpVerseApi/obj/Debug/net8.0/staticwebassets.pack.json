@@ -1,0 +1,149 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/css/index.css",
+      "PackagePath": "staticwebassets/css/index.css"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/images/api-merch-4.png",
+      "PackagePath": "staticwebassets/images/api-merch-4.png"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/images/api-merch-keychain.png",
+      "PackagePath": "staticwebassets/images/api-merch-keychain.png"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/images/api-merch.png",
+      "PackagePath": "staticwebassets/images/api-merch.png"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/images/api-staff-4.png",
+      "PackagePath": "staticwebassets/images/api-staff-4.png"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/images/api-staff-john.png",
+      "PackagePath": "staticwebassets/images/api-staff-john.png"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/images/api-staff-ratcliffe.png",
+      "PackagePath": "staticwebassets/images/api-staff-ratcliffe.png"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/images/api-staff.png",
+      "PackagePath": "staticwebassets/images/api-staff.png"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/images/api-thought-4.png",
+      "PackagePath": "staticwebassets/images/api-thought-4.png"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/images/api-thought-maga.png",
+      "PackagePath": "staticwebassets/images/api-thought-maga.png"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/images/api-thought.png",
+      "PackagePath": "staticwebassets/images/api-thought.png"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/images/bluesweater.jpg",
+      "PackagePath": "staticwebassets/images/bluesweater.jpg"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/images/cap.png",
+      "PackagePath": "staticwebassets/images/cap.png"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/images/dave-weldon.jpg",
+      "PackagePath": "staticwebassets/images/dave-weldon.jpg"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/images/john-phelan.jpg",
+      "PackagePath": "staticwebassets/images/john-phelan.jpg"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/images/john-ratcliffe.jpg",
+      "PackagePath": "staticwebassets/images/john-ratcliffe.jpg"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/images/keychain.jpg",
+      "PackagePath": "staticwebassets/images/keychain.jpg"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/images/kristi-noem.jpg",
+      "PackagePath": "staticwebassets/images/kristi-noem.jpg"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/images/linda-mcmahon.jpg",
+      "PackagePath": "staticwebassets/images/linda-mcmahon.jpg"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/images/marco-rubio.jpg",
+      "PackagePath": "staticwebassets/images/marco-rubio.jpg"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/images/mehmet-oz.jpg",
+      "PackagePath": "staticwebassets/images/mehmet-oz.jpg"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/images/pete-hegseth.jpeg",
+      "PackagePath": "staticwebassets/images/pete-hegseth.jpeg"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/images/save-america.jpg",
+      "PackagePath": "staticwebassets/images/save-america.jpg"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/images/sean-duffy.jpg",
+      "PackagePath": "staticwebassets/images/sean-duffy.jpg"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/images/socks.jpg",
+      "PackagePath": "staticwebassets/images/socks.jpg"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/images/sweater.jpg",
+      "PackagePath": "staticwebassets/images/sweater.jpg"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/images/t-shirt.jpg",
+      "PackagePath": "staticwebassets/images/t-shirt.jpg"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/images/tote.png",
+      "PackagePath": "staticwebassets/images/tote.png"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/images/towel.jpg",
+      "PackagePath": "staticwebassets/images/towel.jpg"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/images/trump-icon.png",
+      "PackagePath": "staticwebassets/images/trump-icon.png"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/images/tulsi-gabbard.jpg",
+      "PackagePath": "staticwebassets/images/tulsi-gabbard.jpg"
+    },
+    {
+      "Id": "/Users/karolineelisabethnordvik/Desktop/3. semester/Webutvikling/Eksamen Webutvikling/TrumpVerseApi/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.TrumpVerseApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.TrumpVerseApi.props",
+      "PackagePath": "build\\TrumpVerseApi.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.TrumpVerseApi.props",
+      "PackagePath": "buildMultiTargeting\\TrumpVerseApi.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.TrumpVerseApi.props",
+      "PackagePath": "buildTransitive\\TrumpVerseApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

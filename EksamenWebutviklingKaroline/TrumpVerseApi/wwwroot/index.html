@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:mso="urn:schemas-microsoft-com:office:office" xmlns:msdt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="/images/trump-icon.png" type="image/trump-icon">
+    <title>Documentation</title>
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Henny+Penny&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
+<!--[if gte mso 9]><xml>
+<mso:CustomDocumentProperties>
+<mso:jd171b5e15a34a1c883b18a49d402130 msdt:dt="string">Ingen|b818fb2f-afc2-41eb-b1b5-59ae51fcd7d3</mso:jd171b5e15a34a1c883b18a49d402130>
+<mso:c163d99eb02a47ad8469e00f330e7adf msdt:dt="string">Kasser|5f5645f1-bb11-49c5-8a7a-797d36a0b04c</mso:c163d99eb02a47ad8469e00f330e7adf>
+<mso:TaxCatchAll msdt:dt="string">2;#Ingen;#1;#Kasser</mso:TaxCatchAll>
+</mso:CustomDocumentProperties>
+</xml><![endif]-->
+</head>
+<body>
+    <header class="text-center m-4 heading">
+        <h1 class="">Trumpverse API Documentation</h1>
+    </header>
+     <main>
+        <section class="top-articles d-flex justify-content-center align-items-center">
+            <div class="grid-12-column">
+                <article>
+                    <h3>Base URL</h3>
+                    <p>https://trumpverse.com/api/ - (not really though 🤠)</p>
+                </article>
+            <section>
+                <div class="grid-12-column">
+                    <article>
+                        <h3>HTTP Calls</h3>
+                        <p>The calls supported in this web api:</p>
+                        <p>Get, Post, Put, Delete</p>
+                    </article>
+                </div>
+            </section>
+            <section>
+                <div class="grid-12-column">
+                    <article>
+                        <h3>Attributes</h3>
+                            <ul>
+                                <li><em class="bg-info text-white rounded">thoughts</em>: <em>string</em> -- The URL root for accessing Thought resources</li>
+                                <li><em class="bg-info text-white rounded">merch</em>: <em>string</em> -- The URL root for accessing Merch resources</li>
+                                <li><em class="bg-info text-white rounded">staff</em>: <em>string</em> -- The URL root for accessing Staff resources</li>
+                            </ul>
+                    </article>
+                </div>
+             </div>
+            </section>
+            <section>
+                <div>
+                    <h3 class="mt-4">Thoughts</h3>
+                    <h5 class="mt-2">Get all thoughts</h5>
+                    <p>You can access the list of thoughts by using the <em class="p-3 mb-2 text-info">api/thought</em> endpoint</p> <!-- https://getbootstrap.com/docs/4.0/content/typography/ -->
+                    <img src="images/api-thought.png" class="img" alt="Api Thought. Photo">
+                    <h3 class="mt-2">Get a single thought</h3>
+                    <p>You can get a single thought by adding the id as a parameter: <em class="p-3 mb-2 text-info">/thought/4</em></p>
+                    <img src="images/api-thought-4.png" class="img" alt="Api Thought nr. 4. Photo">
+                </div>
+            </section>
+            <section>
+                <div>
+                    <h3 class="mt-4">Merch</h3>
+                    <h5 class="mt-2">Get all merch</h5>
+                    <p>You can access the list of Merch by using the <em class="p-3 mb-2 text-info">api/merch</em> endpoint</p>
+                    <img src="images/api-merch.png" class="img" alt="Api Merch. Photo">
+                    <h4 class="mt-2">Get a single merch</h4>
+                    <p>You can get a single thought by adding the id as a parameter: <em class="p-3 mb-2 text-info">/merch/4</em></p>
+                    <img src="images/api-merch-4.png" class="img" alt="Api Merch nr. 4. Photo">
+                </div>
+            </section>
+            <section>
+                <div>
+                    <h3 class="mt-4">Staff</h3>
+                    <h5 class="mt-2">Get all staff</h5>
+                    <p>You can access the list of Staff by using the <em class="p-3 mb-2 text-info">api/staff</em> endpoint</p>
+                    <img src="images/api-staff.png" class="img"  alt="Api Staff. Photo">
+                    <h4 class="mt-2">Get a single staff member</h4>
+                    <p>You can get a single staff member by adding the id as a parameter: <em class="p-3 mb-2 text-info">/staff/4</em></p>
+                    <img src="images/api-staff-4.png" class="img" alt="Api Staff nr. 4. Photo">
+                </div>
+            </section>
+        </section>
+     </main>
+</body>
+</html>

@@ -1,0 +1,60 @@
+html body {
+    font-family: 'Playfair Display', sans-serif !important;
+}
+
+.heading {
+    font-family: 'Playfair Display', italic;
+}
+
+.flag-banner {
+    width: 100%;
+    background-image: url('/images/flag-banner.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.bottom-border {
+    border-bottom: 1px solid #8c7039;
+}
+
+.background-box {
+    background-color: #8c703918;
+    border-radius: 8px;
+}
+
+.text-box {
+    margin: auto;
+    background-color: #8c703918;
+    border-radius: 12px;
+    justify-content: center;
+    width: 80%;
+}
+
+.save-btn {
+    background-color: #8c7039;
+    width: 100px;
+    color: white;
+    border: solid 2px #b7934b;
+    border-radius: 8px;
+}
+
+.save-btn:hover {
+    background-color: #b7934b;
+    border: solid 2px #8c7039;
+}
+
+.center-section {
+    margin-inline: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 50px;
+}
+
+.icon-link-color {
+    color: #fff;
+}
+
+
+

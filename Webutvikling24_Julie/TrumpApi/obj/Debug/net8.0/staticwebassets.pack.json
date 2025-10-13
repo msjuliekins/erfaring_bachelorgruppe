@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/juliehammerskoglund/Downloads/TrumpApi/wwwroot/images/flag.jpg",
+      "PackagePath": "staticwebassets/images/flag.jpg"
+    },
+    {
+      "Id": "/Users/juliehammerskoglund/Downloads/TrumpApi/wwwroot/images/maga_cap.jpg",
+      "PackagePath": "staticwebassets/images/maga_cap.jpg"
+    },
+    {
+      "Id": "/Users/juliehammerskoglund/Downloads/TrumpApi/wwwroot/images/mask.jpg",
+      "PackagePath": "staticwebassets/images/mask.jpg"
+    },
+    {
+      "Id": "/Users/juliehammerskoglund/Downloads/TrumpApi/wwwroot/images/sticker.png",
+      "PackagePath": "staticwebassets/images/sticker.png"
+    },
+    {
+      "Id": "/Users/juliehammerskoglund/Downloads/TrumpApi/wwwroot/images/tshirt1.jpg",
+      "PackagePath": "staticwebassets/images/tshirt1.jpg"
+    },
+    {
+      "Id": "/Users/juliehammerskoglund/Downloads/TrumpApi/wwwroot/images/tshirt2.jpg",
+      "PackagePath": "staticwebassets/images/tshirt2.jpg"
+    },
+    {
+      "Id": "/Users/juliehammerskoglund/Downloads/TrumpApi/wwwroot/images/wig.jpeg",
+      "PackagePath": "staticwebassets/images/wig.jpeg"
+    },
+    {
+      "Id": "/Users/juliehammerskoglund/Downloads/TrumpApi/wwwroot/images/woman#1.jpg",
+      "PackagePath": "staticwebassets/images/woman#1.jpg"
+    },
+    {
+      "Id": "/Users/juliehammerskoglund/Downloads/TrumpApi/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.TrumpApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.TrumpApi.props",
+      "PackagePath": "build\\TrumpApi.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.TrumpApi.props",
+      "PackagePath": "buildMultiTargeting\\TrumpApi.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.TrumpApi.props",
+      "PackagePath": "buildTransitive\\TrumpApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
