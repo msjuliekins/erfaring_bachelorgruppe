@@ -6,11 +6,10 @@ Målet vårt er å vise vår kompetanse, samarbeidsevne og interesse for moderne
 
 ## Om oss
 
-Vi er fire engasjerte studenter som brenner for teknologi og problemløsning:
+Vi er tre engasjerte studenter som brenner for teknologi og problemløsning:
 
 - **Karoline Elisabeth Nordvik** – Frontend-utvikling, apputvikling, react, kotlin, snart swift og kryssplattform. Erfaring som utvikler i Gyldendal
 - **Julie Hammer Skoglund** – Frontend-utvikling, React, Tailwind, Figma, kotlin, HTML, CSS, Snart SWift, Java, Python, typescript.
-- **Tiril Elida Nielsen** – Frontend-utvikling, React, Tailwind, Figma, Android utvikling: kotlin, HTML, CSS, Snart XCode: SWift & kryssplatform: react native expo. 
 - **Sania Sharma** – Frontend-utvikling, React, Tailwind, Figma, HTML, CSS, kotlin, snart swift og kryssplatform.
 
 ## Prosjekter - Karoline E. Nordvik
